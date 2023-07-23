@@ -1,0 +1,2387 @@
+{
+    "lens_id": "",
+    "document_id": "g8d8croEEkD2-x8ozHLO",
+    "original_document_id": "g8d8croEEkD2-x8ozHLO",
+    "version": "29",
+    "lastChanged": "1663265112566",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "28",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "28",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Pro Outline Resoureces"
+                    ],
+                    [
+                        "Pro Outline Resoureces",
+                        "Body Segmentation"
+                    ],
+                    [
+                        "Pro Outline Resoureces",
+                        "Materials"
+                    ],
+                    [
+                        "Pro Outline Resoureces",
+                        "Materials",
+                        "FinalPassEffects"
+                    ],
+                    [
+                        "Pro Outline Resoureces",
+                        "Materials",
+                        "FinalPassSimple"
+                    ],
+                    [
+                        "Pro Outline Resoureces",
+                        "Materials",
+                        "FinalPassSimple 2"
+                    ],
+                    [
+                        "Pro Outline Resoureces",
+                        "Materials",
+                        "JFA step uv"
+                    ],
+                    [
+                        "Pro Outline Resoureces",
+                        "Materials",
+                        "Outline 2"
+                    ],
+                    [
+                        "Pro Outline Resoureces",
+                        "Scripts"
+                    ],
+                    [
+                        "Pro Outline Resoureces",
+                        "Scripts",
+                        "JFA"
+                    ],
+                    [
+                        "Pro_Outline___PUT_IN_ORTHO_CAM"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Materials"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Materials",
+                        "Color Correction - Blue"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Materials",
+                        "Color Correction - Blue 2"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Materials",
+                        "Color Correction - Pink"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Materials",
+                        "Color Correction - Pink 2"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Materials",
+                        "Post Effect"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Materials",
+                        "Post Effect 2"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Render Targets"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Render Targets",
+                        "Render Target - Camera 1"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Render Targets",
+                        "Render Target - Camera 2"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Render Targets",
+                        "Render Target - Camera 3"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Render Targets",
+                        "Render Target - Camera 4"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Scripts"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Scripts",
+                        "TouchPosToMaterialProperty"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Textures"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Textures",
+                        "Screen Texture"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Textures",
+                        "Sunglasses"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Textures",
+                        "Sunglasses",
+                        "pink_sunglasses"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Textures",
+                        "Sunglasses",
+                        "round_sunglasses"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Textures",
+                        "Vintage Blue"
+                    ],
+                    [
+                        "Split Screen Resources",
+                        "Textures",
+                        "Vintage Red"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1663261190915358:94557"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Vibe Victory",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 6.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 2.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1663260259295082:3077",
+                    "1663264971836571:43323"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "MapUiComponent": {
+            "mapPinPoints": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1663260310242213:6556",
+                    "name": "Files\/File8.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1663260310265373:6567",
+                    "name": "Files\/File10.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1663260310285948:6577",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1663260310291771:6587",
+                    "name": "Files\/File12.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1663260310310758:6599",
+                    "name": "Files\/File14.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1663260310327207:6609",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1663260310329549:6617",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1663260310332905:6625",
+                    "name": "Files\/File16.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1663260310343220:6637",
+                    "name": "Files\/File17",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1663260310441338:6655",
+                    "name": "Files\/File19",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1663260310545450:6703",
+                    "name": "Files\/File21",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "185",
+                    "uid": "1663262791308134:288755",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "186",
+                    "uid": "1663262791308566:288763",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "187",
+                    "uid": "1663262791327807:288774",
+                    "name": "Files\/File195",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "188",
+                    "uid": "1663262791430441:288805",
+                    "name": "Files\/File197",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "189",
+                    "uid": "1663262791532126:288840",
+                    "name": "Files\/File199",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "190",
+                    "uid": "1663262912529643:296034",
+                    "name": "sceneObject_147",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "191",
+                    "uid": "1663262912671462:296117",
+                    "name": "Files\/File202.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "192",
+                    "uid": "1663262912705323:296129",
+                    "name": "Files\/File203",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "193",
+                    "uid": "1663262912811898:296157",
+                    "name": "Portrait Background Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "194",
+                    "uid": "1663262912847079:296232",
+                    "name": "Files\/File205",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "195",
+                    "uid": "1663262912966455:296252",
+                    "name": "Files\/File207",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "196",
+                    "uid": "1663262913092723:296373",
+                    "name": "Files\/File209",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "197",
+                    "uid": "1663262913249700:296393",
+                    "name": "Files\/File211",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1663260259294144:3076",
+                "4": "1663260259295082:3077",
+                "5": "1663260259410339:3101",
+                "6": "1663262791616838:288858",
+                "7": "1663262791618127:288862",
+                "8": "1663262791618456:288864",
+                "9": "1663262791618790:288866",
+                "10": "1663262791629574:288958",
+                "11": "1663262791636988:289042",
+                "12": "1663262791637409:289044",
+                "13": "1663262791637777:289046",
+                "14": "1663262791646809:289138",
+                "15": "1663262791654507:289207",
+                "16": "1663262928887225:299115",
+                "17": "1663262928888256:299131",
+                "18": "1663262928890847:299150"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "5",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Split Effect Layer 1",
+                    "layerMask": "2",
+                    "colorCode": "0"
+                },
+                {
+                    "layerId": "3",
+                    "layerName": "Split Effect Layer 1",
+                    "layerMask": "4",
+                    "colorCode": "1"
+                },
+                {
+                    "layerId": "4",
+                    "layerName": "Split Effect Layer 1_imported",
+                    "layerMask": "8",
+                    "colorCode": "2"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.pvr"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.pvr"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.pvr"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.pvr"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.png"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.png"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.js"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.lsmat"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.lsmat"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.lsmat"
+                },
+                {
+                    "k": "195",
+                    "v": "Files\/File195"
+                },
+                {
+                    "k": "196",
+                    "v": "Files\/File196.lsmat"
+                },
+                {
+                    "k": "197",
+                    "v": "Files\/File197"
+                },
+                {
+                    "k": "198",
+                    "v": "Files\/File198.lsmat"
+                },
+                {
+                    "k": "199",
+                    "v": "Files\/File199"
+                },
+                {
+                    "k": "200",
+                    "v": "Files\/File200.lsmat"
+                },
+                {
+                    "k": "201",
+                    "v": "Files\/File201.oprfb"
+                },
+                {
+                    "k": "202",
+                    "v": "Files\/File202.js"
+                },
+                {
+                    "k": "203",
+                    "v": "Files\/File203"
+                },
+                {
+                    "k": "204",
+                    "v": "Files\/File204.lsmat"
+                },
+                {
+                    "k": "205",
+                    "v": "Files\/File205"
+                },
+                {
+                    "k": "206",
+                    "v": "Files\/File206.lsmat"
+                },
+                {
+                    "k": "207",
+                    "v": "Files\/File207"
+                },
+                {
+                    "k": "208",
+                    "v": "Files\/File208.lsmat"
+                },
+                {
+                    "k": "209",
+                    "v": "Files\/File209"
+                },
+                {
+                    "k": "210",
+                    "v": "Files\/File210.lsmat"
+                },
+                {
+                    "k": "211",
+                    "v": "Files\/File211"
+                },
+                {
+                    "k": "212",
+                    "v": "Files\/File212.lsmat"
+                },
+                {
+                    "k": "262",
+                    "v": "Files\/File262.oprfb"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "Split Screen Resources"
+                    },
+                    {
+                        "k": "969",
+                        "v": "Split Screen Resources\/Textures"
+                    },
+                    {
+                        "k": "970",
+                        "v": "Split Screen Resources\/Textures\/Sunglasses"
+                    },
+                    {
+                        "k": "971",
+                        "v": "Split Screen Resources\/Textures\/Sunglasses\/pink_sunglasses.pvr"
+                    },
+                    {
+                        "k": "972",
+                        "v": "Split Screen Resources\/Textures\/Sunglasses\/round_sunglasses.pvr"
+                    },
+                    {
+                        "k": "973",
+                        "v": "Split Screen Resources\/Textures\/Vintage Red.png"
+                    },
+                    {
+                        "k": "974",
+                        "v": "Split Screen Resources\/Textures\/Vintage Blue.png"
+                    },
+                    {
+                        "k": "975",
+                        "v": "Split Screen Resources\/Render Targets"
+                    },
+                    {
+                        "k": "976",
+                        "v": "Split Screen Resources\/Scripts"
+                    },
+                    {
+                        "k": "977",
+                        "v": "Split Screen Resources\/Scripts\/TouchPosToMaterialProperty.js"
+                    },
+                    {
+                        "k": "978",
+                        "v": "Split Screen Resources\/Materials"
+                    },
+                    {
+                        "k": "979",
+                        "v": "Split Screen Resources\/Materials\/Post Effect.lsmat"
+                    },
+                    {
+                        "k": "980",
+                        "v": "Split Screen Resources\/Materials\/Color Correction - Pink.lsmat"
+                    },
+                    {
+                        "k": "981",
+                        "v": "Split Screen Resources\/Materials\/Color Correction - Blue.lsmat"
+                    },
+                    {
+                        "k": "1096",
+                        "v": "Split Screen Resources\/Materials\/Post Effect 2.lsmat"
+                    },
+                    {
+                        "k": "1097",
+                        "v": "Split Screen Resources\/Materials\/Color Correction - Pink 2.lsmat"
+                    },
+                    {
+                        "k": "1098",
+                        "v": "Split Screen Resources\/Materials\/Color Correction - Blue 2.lsmat"
+                    },
+                    {
+                        "k": "1099",
+                        "v": "Pro Outline Resoureces"
+                    },
+                    {
+                        "k": "1100",
+                        "v": "Pro Outline Resoureces\/Scripts"
+                    },
+                    {
+                        "k": "1101",
+                        "v": "Pro Outline Resoureces\/Scripts\/JFA.js"
+                    },
+                    {
+                        "k": "1102",
+                        "v": "Pro Outline Resoureces\/Materials"
+                    },
+                    {
+                        "k": "1103",
+                        "v": "Pro Outline Resoureces\/Materials\/FinalPassSimple.lsmat"
+                    },
+                    {
+                        "k": "1104",
+                        "v": "Pro Outline Resoureces\/Materials\/FinalPassEffects.lsmat"
+                    },
+                    {
+                        "k": "1105",
+                        "v": "Pro Outline Resoureces\/Materials\/Outline 2.lsmat"
+                    },
+                    {
+                        "k": "1106",
+                        "v": "Pro Outline Resoureces\/Materials\/FinalPassSimple 2.lsmat"
+                    },
+                    {
+                        "k": "1107",
+                        "v": "Pro Outline Resoureces\/Materials\/JFA step uv.lsmat"
+                    },
+                    {
+                        "k": "1108",
+                        "v": "Pro_Outline___PUT_IN_ORTHO_CAM.oprfb"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "971",
+                        "v": "a06d07de6d440b864551560f0d323bb5"
+                    },
+                    {
+                        "k": "972",
+                        "v": "93591be5d0bb46540c0cd83b6e02337e"
+                    },
+                    {
+                        "k": "973",
+                        "v": "b8a76449d48003dcc2a635457ac5c665"
+                    },
+                    {
+                        "k": "974",
+                        "v": "4d35697e2500c184d3f39e4f7e1314e5"
+                    },
+                    {
+                        "k": "977",
+                        "v": "375eba5527a13e978eec125297895467"
+                    },
+                    {
+                        "k": "979",
+                        "v": "5cb4dd85672199140c44c3151f0967b3"
+                    },
+                    {
+                        "k": "980",
+                        "v": "214ddad61cbc49fd992f96e208370016"
+                    },
+                    {
+                        "k": "981",
+                        "v": "f83c0ff65792854d9caf3cf68a34f028"
+                    },
+                    {
+                        "k": "983",
+                        "v": "da8baee0aa724546f29552d4ed4701ef"
+                    },
+                    {
+                        "k": "986",
+                        "v": "e31bfac2ac30fc1b37d0f1ebd6019b94"
+                    },
+                    {
+                        "k": "987",
+                        "v": "904b7fb3be904c5a68c1db4472af0961"
+                    },
+                    {
+                        "k": "988",
+                        "v": "c2e4801291ff01ccaefc656d5e41800d"
+                    },
+                    {
+                        "k": "989",
+                        "v": "ffbce66d7c12d942b13208740e9d0059"
+                    },
+                    {
+                        "k": "990",
+                        "v": "2e7a4fe56e7a8786d46314a821879b1a"
+                    },
+                    {
+                        "k": "993",
+                        "v": "d6706e60f0ea431467da735296bbc62e"
+                    },
+                    {
+                        "k": "996",
+                        "v": "7e0eb64727d45943765b89f3efef0532"
+                    },
+                    {
+                        "k": "997",
+                        "v": "aa502090d492b87be4484316420be6c5"
+                    },
+                    {
+                        "k": "998",
+                        "v": "faba16b637b1e47ec6d5e4ff105d8273"
+                    },
+                    {
+                        "k": "999",
+                        "v": "209578cebb6c8bce23ac33ed83231517"
+                    },
+                    {
+                        "k": "1001",
+                        "v": "a139e6bd3e6a068ca2dbd04ca9895135"
+                    },
+                    {
+                        "k": "1003",
+                        "v": "d046f290b85c9f5447412884f08f3ec1"
+                    },
+                    {
+                        "k": "1005",
+                        "v": "d295884ab4a5a6e2ac255beab2b5a9c3"
+                    },
+                    {
+                        "k": "1006",
+                        "v": "6d705d69f7e9bbf7623c4bbe89e342a2"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "7f7929fe4dd0fa16ec0f3a916f93cdda"
+                    },
+                    {
+                        "k": "1013",
+                        "v": "6955ae436ec6a2c1fa59d00f761681f4"
+                    },
+                    {
+                        "k": "1015",
+                        "v": "92c474fc13be64265bb2d8f7a61337bd"
+                    },
+                    {
+                        "k": "1016",
+                        "v": "0377342409f8ec90142150bdb61f7bc7"
+                    },
+                    {
+                        "k": "1019",
+                        "v": "7cb5c4b8d7c7eae3a2c52993f9ea6713"
+                    },
+                    {
+                        "k": "1020",
+                        "v": "fc2d74347b5526f27229e95b919971ab"
+                    },
+                    {
+                        "k": "1021",
+                        "v": "0d2398520d54c1d1730c9d5ee857aa66"
+                    },
+                    {
+                        "k": "1022",
+                        "v": "af2715bddfbca2d4e72f470d285c5010"
+                    },
+                    {
+                        "k": "1023",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "1025",
+                        "v": "51a6d6284c614dc00cdfbda7ac0f157a"
+                    },
+                    {
+                        "k": "1026",
+                        "v": "f2ffd3d9f8d84f3609f0134c776ca525"
+                    },
+                    {
+                        "k": "1029",
+                        "v": "8209c718b2eac7c0ed76469167d677f3"
+                    },
+                    {
+                        "k": "1031",
+                        "v": "78ac2e7556173e1a06225235cac74009"
+                    },
+                    {
+                        "k": "1032",
+                        "v": "9bc9038371ddb3abfef8c1053fd8daca"
+                    },
+                    {
+                        "k": "1035",
+                        "v": "fc46fd8b2285b1e7849abb5eddb1bbc0"
+                    },
+                    {
+                        "k": "1037",
+                        "v": "944ad52cae72a8fef4fc510e2936dbe6"
+                    },
+                    {
+                        "k": "1040",
+                        "v": "b104d24f714f552d9c746aee723d63fe"
+                    },
+                    {
+                        "k": "1042",
+                        "v": "85d339d916479f729938d2911b85bf1f"
+                    },
+                    {
+                        "k": "1043",
+                        "v": "2d36b1a925432bae7f3c53a340868c6e"
+                    },
+                    {
+                        "k": "1045",
+                        "v": "415770601761a2ce377fa148f4364027"
+                    },
+                    {
+                        "k": "1046",
+                        "v": "2c10348d71f1fd99159bc1b0e0e5a5e8"
+                    },
+                    {
+                        "k": "1049",
+                        "v": "1e22c1d7956a48606f6a0a7aca2d72f3"
+                    },
+                    {
+                        "k": "1051",
+                        "v": "35d461e469efacd7b819ade11502c233"
+                    },
+                    {
+                        "k": "1052",
+                        "v": "48fb5e53c60414d22f895bc902033933"
+                    },
+                    {
+                        "k": "1055",
+                        "v": "750280de1777a40b56c2613ad9c24baa"
+                    },
+                    {
+                        "k": "1057",
+                        "v": "f3f8f179b87ba4b5a44077fb80d53214"
+                    },
+                    {
+                        "k": "1059",
+                        "v": "124c41df0ffbd11d668ef03acd07cb44"
+                    },
+                    {
+                        "k": "1060",
+                        "v": "8ac33d8a641c840649fc17d51fda55ef"
+                    },
+                    {
+                        "k": "1062",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "1063",
+                        "v": "f995b7c06957b238ec5e5b5b12580105"
+                    },
+                    {
+                        "k": "1066",
+                        "v": "726b065b86e0269f88a5ea59a40a2980"
+                    },
+                    {
+                        "k": "1067",
+                        "v": "6170d7426a23af2cab9f1cab2ad515b2"
+                    },
+                    {
+                        "k": "1068",
+                        "v": "a0a160aa4df1261a1757ed5683b4ef10"
+                    },
+                    {
+                        "k": "1069",
+                        "v": "f4ccbf4b0b6f063859f4f9acf4fd519b"
+                    },
+                    {
+                        "k": "1071",
+                        "v": "f652376b2e8ec8c8586783227a4b52ef"
+                    },
+                    {
+                        "k": "1072",
+                        "v": "b333ee74d659fd8ef743bb56f2eece08"
+                    },
+                    {
+                        "k": "1074",
+                        "v": "7e245bda3780ecde5925ed552f98e199"
+                    },
+                    {
+                        "k": "1075",
+                        "v": "21fce49e4d868a2e0c4f02e33272de62"
+                    },
+                    {
+                        "k": "1078",
+                        "v": "fc46fd8b2285b1e7849abb5eddb1bbc0"
+                    },
+                    {
+                        "k": "1080",
+                        "v": "a59c780093b90fd8225f6c24f0acf879"
+                    },
+                    {
+                        "k": "1083",
+                        "v": "b104d24f714f552d9c746aee723d63fe"
+                    },
+                    {
+                        "k": "1085",
+                        "v": "85d339d916479f729938d2911b85bf1f"
+                    },
+                    {
+                        "k": "1086",
+                        "v": "2d36b1a925432bae7f3c53a340868c6e"
+                    },
+                    {
+                        "k": "1088",
+                        "v": "0333d202f0892f03907def5e33bd0abd"
+                    },
+                    {
+                        "k": "1089",
+                        "v": "140bbe1ea6f6adf1e40696805d97f6a5"
+                    },
+                    {
+                        "k": "1092",
+                        "v": "5708ab5bd41afa432d11dedc4c8a54b5"
+                    },
+                    {
+                        "k": "1094",
+                        "v": "1bb31b2e6cd5feded1697f269eae1465"
+                    },
+                    {
+                        "k": "1095",
+                        "v": "7120a26e975c99a0210d96b79bba01b6"
+                    },
+                    {
+                        "k": "1096",
+                        "v": "4319dac754b826358a6b190be00a243d"
+                    },
+                    {
+                        "k": "1097",
+                        "v": "2186e723105e1f499b36d626af0048a2"
+                    },
+                    {
+                        "k": "1098",
+                        "v": "17d25fb019700d7d096c912c5df1837e"
+                    },
+                    {
+                        "k": "1101",
+                        "v": "08d0dcec0a579e063940470dfbd7ec15"
+                    },
+                    {
+                        "k": "1103",
+                        "v": "cddd5ae2ddd902abefaa90aa7d6bf7c6"
+                    },
+                    {
+                        "k": "1104",
+                        "v": "39ff4ec738d15c314f980e8c4a6029c4"
+                    },
+                    {
+                        "k": "1105",
+                        "v": "aeefaba5c983375c152c2c43f38ab51a"
+                    },
+                    {
+                        "k": "1106",
+                        "v": "b1ef33cf31322061f099a97cd8b34294"
+                    },
+                    {
+                        "k": "1107",
+                        "v": "d8c81515d273b6c9228cae6008973ca4"
+                    },
+                    {
+                        "k": "1108",
+                        "v": "48e933d39d8ba15609829c540278410b"
+                    },
+                    {
+                        "k": "1112",
+                        "v": "230ab60b310f3c4e0f4ba005b1f3f963"
+                    },
+                    {
+                        "k": "1113",
+                        "v": "1510096cea1e8858dccc5e6afd4d3caa"
+                    },
+                    {
+                        "k": "1114",
+                        "v": "262b7d903376be5d26c047d7e564be43"
+                    },
+                    {
+                        "k": "1115",
+                        "v": "0b0efe076f756ae5b06b99de95f03b54"
+                    },
+                    {
+                        "k": "1116",
+                        "v": "b8dca45d1cf1f7f739eeada3bf43cada"
+                    },
+                    {
+                        "k": "1117",
+                        "v": "e0f1625eaa56a137a180b7e06cad8c57"
+                    },
+                    {
+                        "k": "1118",
+                        "v": "70cdb09bb7c477eaab1493e65270c4be"
+                    },
+                    {
+                        "k": "1120",
+                        "v": "3c51ac8f092c3ba1296bbdd96e03ad14"
+                    },
+                    {
+                        "k": "1121",
+                        "v": "77fa00996ecb4104c7880b8749c7c4e0"
+                    },
+                    {
+                        "k": "1122",
+                        "v": "d5746e3b20453d6cee99ab27a0bdf949"
+                    },
+                    {
+                        "k": "1123",
+                        "v": "caf1116511ef945216d4d56b9752fa76"
+                    },
+                    {
+                        "k": "1124",
+                        "v": "7777f7f3f519eaedd41b8b9a8cd2666e"
+                    },
+                    {
+                        "k": "1125",
+                        "v": "7676beb2b1f19eec709feed096327d21"
+                    },
+                    {
+                        "k": "1126",
+                        "v": "f00793a00f47ae57e7942074a8419e3e"
+                    },
+                    {
+                        "k": "1127",
+                        "v": "894a50583fedfd2adfa26380739524b1"
+                    },
+                    {
+                        "k": "1128",
+                        "v": "17e894780450387939c684148e205be5"
+                    },
+                    {
+                        "k": "1129",
+                        "v": "afd1c6a18c0f8b773e1f7f45c0893057"
+                    },
+                    {
+                        "k": "1130",
+                        "v": "7598d0a69e321328150140aff006d38a"
+                    },
+                    {
+                        "k": "1131",
+                        "v": "97f8e246c390a4337e9f5190c8958ecf"
+                    },
+                    {
+                        "k": "1132",
+                        "v": "9ff69b1218449acbacc81177e8568859"
+                    },
+                    {
+                        "k": "1133",
+                        "v": "4639ee3ca532d6500d7cc46b6ad73577"
+                    },
+                    {
+                        "k": "1134",
+                        "v": "d534463da645fb578f9767ee09ebcb24"
+                    },
+                    {
+                        "k": "1135",
+                        "v": "b54c5481a716ca078a706ee6fea7b03d"
+                    },
+                    {
+                        "k": "1136",
+                        "v": "775a43a642e8ed70fa5287e0fc66f43f"
+                    },
+                    {
+                        "k": "1137",
+                        "v": "c88cecbffad6d8e731fd95de49561ebd"
+                    },
+                    {
+                        "k": "1138",
+                        "v": "a1e62992c2000401c04c1b6e042516c0"
+                    },
+                    {
+                        "k": "1139",
+                        "v": "4eb20d6ff14be5b8c806e4d6dae6b3de"
+                    },
+                    {
+                        "k": "1140",
+                        "v": "c941aaafcbf85eb8b93e5f197a46c129"
+                    },
+                    {
+                        "k": "1141",
+                        "v": "eab5a11a66864fc54efe39abc2aced93"
+                    },
+                    {
+                        "k": "1142",
+                        "v": "0a437f2621384ab88547fb2c25432fc7"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-09-15T23:06:43",
+                        "name": "Public",
+                        "hash": "ea6ade14e22bdd87c4f21d1041c2e157",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-09-05T21:40:54",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-09-05T21:40:54",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-09-15T22:58:32",
+                                "name": "Pro Outline Resoureces",
+                                "hash": "f13c974c901e261ba4337ac4b9617dbf",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-09-15T22:58:32",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-09-15T22:58:33",
+                                        "name": "Materials",
+                                        "hash": "abe50b941c886c57191a827c1cd4659f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:58:32",
+                                                "name": "FinalPassEffects.lsmat",
+                                                "hash": "39ff4ec738d15c314f980e8c4a6029c4",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:58:33",
+                                                "name": "FinalPassSimple 2.lsmat",
+                                                "hash": "b1ef33cf31322061f099a97cd8b34294",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:58:32",
+                                                "name": "FinalPassSimple.lsmat",
+                                                "hash": "cddd5ae2ddd902abefaa90aa7d6bf7c6",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:58:32",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:58:33",
+                                                "name": "JFA step uv.lsmat",
+                                                "hash": "d8c81515d273b6c9228cae6008973ca4",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:58:33",
+                                                "name": "Outline 2.lsmat",
+                                                "hash": "aeefaba5c983375c152c2c43f38ab51a",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-09-15T22:58:32",
+                                        "name": "Scripts",
+                                        "hash": "131406b08992d51634eb7ef9c47bdf20",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:58:32",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:58:32",
+                                                "name": "JFA.js",
+                                                "hash": "08d0dcec0a579e063940470dfbd7ec15",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-09-15T22:58:32",
+                                "name": "Pro_Outline___PUT_IN_ORTHO_CAM.oprfb",
+                                "hash": "48e933d39d8ba15609829c540278410b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-09-15T23:07:06",
+                                "name": "Split Screen Resources",
+                                "hash": "5448088e7f763c5134d7ce7f9d3b4664",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-09-15T22:15:10",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-09-15T22:56:31",
+                                        "name": "Materials",
+                                        "hash": "7ffb92274badf928436b83da3ef3f66d",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:56:31",
+                                                "name": "Color Correction - Blue 2.lsmat",
+                                                "hash": "17d25fb019700d7d096c912c5df1837e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:15:10",
+                                                "name": "Color Correction - Blue.lsmat",
+                                                "hash": "f83c0ff65792854d9caf3cf68a34f028",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:56:31",
+                                                "name": "Color Correction - Pink 2.lsmat",
+                                                "hash": "2186e723105e1f499b36d626af0048a2",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:15:10",
+                                                "name": "Color Correction - Pink.lsmat",
+                                                "hash": "214ddad61cbc49fd992f96e208370016",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:15:10",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:56:31",
+                                                "name": "Post Effect 2.lsmat",
+                                                "hash": "4319dac754b826358a6b190be00a243d",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:15:10",
+                                                "name": "Post Effect.lsmat",
+                                                "hash": "5cb4dd85672199140c44c3151f0967b3",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-09-15T22:15:10",
+                                        "name": "Render Targets",
+                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:15:10",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-09-15T22:15:10",
+                                        "name": "Scripts",
+                                        "hash": "cc24d5ad146580b1e1e3c278ea80eac9",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:15:10",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:15:10",
+                                                "name": "TouchPosToMaterialProperty.js",
+                                                "hash": "375eba5527a13e978eec125297895467",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-09-15T22:15:10",
+                                        "name": "Textures",
+                                        "hash": "ba4d75aeeb28addaf488d1ddedf78615",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:15:10",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2022-09-15T22:15:10",
+                                                "name": "Sunglasses",
+                                                "hash": "9603252a513ac560d9a6c908abe936bc",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-09-15T22:15:10",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-09-15T22:15:10",
+                                                        "name": "pink_sunglasses.pvr",
+                                                        "hash": "a06d07de6d440b864551560f0d323bb5",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2022-09-15T22:15:10",
+                                                        "name": "round_sunglasses.pvr",
+                                                        "hash": "93591be5d0bb46540c0cd83b6e02337e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:15:10",
+                                                "name": "Vintage Blue.png",
+                                                "hash": "4d35697e2500c184d3f39e4f7e1314e5",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-09-15T22:15:10",
+                                                "name": "Vintage Red.png",
+                                                "hash": "b8a76449d48003dcc2a635457ac5c665",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Split Screen Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "968",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "969",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Sunglasses",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "970",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "pink_sunglasses",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "13",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1663260310242213:6556",
+                                                "fileId": "8",
+                                                "originalId": "9",
+                                                "publicId": "971",
+                                                "source": "C:\/Users\/Mann\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioIaLLaZiCYpAG\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": {
+                                                    "originHash": "a06d07de6d440b864551560f0d323bb5",
+                                                    "subtype": "9"
+                                                }
+                                            },
+                                            {
+                                                "name": "round_sunglasses",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "14",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1663260310265373:6567",
+                                                "fileId": "10",
+                                                "originalId": "11",
+                                                "publicId": "972",
+                                                "source": "C:\/Users\/Mann\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioIaLLaZiCYpAG\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": {
+                                                    "originHash": "93591be5d0bb46540c0cd83b6e02337e",
+                                                    "subtype": "9"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Screen Texture",
+                                        "type": "1",
+                                        "subtype": "16",
+                                        "resourceId": "15",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663260310285948:6577",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Vintage Red",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "16",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663260310291771:6587",
+                                        "fileId": "12",
+                                        "originalId": "13",
+                                        "publicId": "973",
+                                        "source": "C:\/Users\/Mann\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioIaLLaZiCYpAG\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "b8a76449d48003dcc2a635457ac5c665",
+                                            "subtype": "9"
+                                        }
+                                    },
+                                    {
+                                        "name": "Vintage Blue",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "17",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663260310310758:6599",
+                                        "fileId": "14",
+                                        "originalId": "15",
+                                        "publicId": "974",
+                                        "source": "C:\/Users\/Mann\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioIaLLaZiCYpAG\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "4d35697e2500c184d3f39e4f7e1314e5",
+                                            "subtype": "9"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Render Targets",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "975",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Render Target - Camera 1",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "18",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663260310327207:6609",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "RenderTargetRole": "2"
+                                        }
+                                    },
+                                    {
+                                        "name": "Render Target - Camera 2",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "19",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663260310329549:6617",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "RenderTargetRole": "2"
+                                        }
+                                    },
+                                    {
+                                        "name": "Render Target - Camera 3",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "185",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663262791308134:288755",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "RenderTargetRole": "2"
+                                        }
+                                    },
+                                    {
+                                        "name": "Render Target - Camera 4",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "186",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663262791308566:288763",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "RenderTargetRole": "2"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Scripts",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "976",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "TouchPosToMaterialProperty",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "20",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663260310332905:6625",
+                                        "fileId": "16",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "977",
+                                        "source": "C:\/Users\/Mann\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioIaLLaZiCYpAG\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "978",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Post Effect",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "21",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663260310343220:6637",
+                                        "fileId": "17",
+                                        "originalId": "18",
+                                        "publicId": "979",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Color Correction - Pink",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "22",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663260310441338:6655",
+                                        "fileId": "19",
+                                        "originalId": "20",
+                                        "publicId": "980",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Color Correction - Blue",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "23",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663260310545450:6703",
+                                        "fileId": "21",
+                                        "originalId": "22",
+                                        "publicId": "981",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Post Effect 2",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "187",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663262791327807:288774",
+                                        "fileId": "195",
+                                        "originalId": "196",
+                                        "publicId": "1096",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Color Correction - Pink 2",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "188",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663262791430441:288805",
+                                        "fileId": "197",
+                                        "originalId": "198",
+                                        "publicId": "1097",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Color Correction - Blue 2",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "189",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663262791532126:288840",
+                                        "fileId": "199",
+                                        "originalId": "200",
+                                        "publicId": "1098",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pro Outline Resoureces",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1099",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Scripts",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1100",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "JFA",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "191",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663262912671462:296117",
+                                        "fileId": "202",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1101",
+                                        "source": "C:\/Users\/Mann\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioIaLLaZiCYpAG\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1102",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "FinalPassSimple",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "192",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663262912705323:296129",
+                                        "fileId": "203",
+                                        "originalId": "204",
+                                        "publicId": "1103",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "FinalPassEffects",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "194",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663262912847079:296232",
+                                        "fileId": "205",
+                                        "originalId": "206",
+                                        "publicId": "1104",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Outline 2",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "195",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663262912966455:296252",
+                                        "fileId": "207",
+                                        "originalId": "208",
+                                        "publicId": "1105",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "FinalPassSimple 2",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "196",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663262913092723:296373",
+                                        "fileId": "209",
+                                        "originalId": "210",
+                                        "publicId": "1106",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "JFA step uv",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "197",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1663262913249700:296393",
+                                        "fileId": "211",
+                                        "originalId": "212",
+                                        "publicId": "1107",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Body Segmentation",
+                                "type": "1",
+                                "subtype": "14",
+                                "resourceId": "193",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1663262912811898:296157",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pro_Outline___PUT_IN_ORTHO_CAM",
+                        "type": "12",
+                        "subtype": "-1",
+                        "resourceId": "190",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1663262912529643:296034",
+                        "fileId": "201",
+                        "originalId": "262",
+                        "publicId": "1108",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1663262928888256:299131"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "34": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1663262928887225:299115",
+                        "v": {
+                            "prefab": "1663262912529643:296034",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1663262913356472:296437",
+                                    "v": "1663262928887225:299115"
+                                },
+                                {
+                                    "k": "1663262913356490:296439",
+                                    "v": "1663262928888256:299131"
+                                },
+                                {
+                                    "k": "1663262913356496:296441",
+                                    "v": "1663262928888814:299133"
+                                },
+                                {
+                                    "k": "1663262913356525:296443",
+                                    "v": "1663262928889405:299136"
+                                },
+                                {
+                                    "k": "1663262913356614:296456",
+                                    "v": "1663262928890847:299150"
+                                },
+                                {
+                                    "k": "1663262913356617:296458",
+                                    "v": "1663262928891504:299152"
+                                },
+                                {
+                                    "k": "1663262913356646:296471",
+                                    "v": "1663262928891896:299165"
+                                },
+                                {
+                                    "k": "1663262913356655:296473",
+                                    "v": "1663262928892389:299168"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": ""
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        },
+        "Compression::IController": {
+            "new_compression_info": ""
+        },
+        "AssetImportController": {
+            "itemUidToID": [
+                {
+                    "k": "1663260310637837:6721",
+                    "v": "7pH8Woze8Ul1JslL2BOLvI"
+                },
+                {
+                    "k": "1663260608889159:33362",
+                    "v": "3A46HAk4VykNG8nrCU94Y3"
+                },
+                {
+                    "k": "1663261140514950:90676",
+                    "v": "2w9mGax2XkP5ZcXaO7LX1L"
+                },
+                {
+                    "k": "1663261357681944:104792",
+                    "v": "1QOdQgIpJgjQfkZzMhutVS"
+                },
+                {
+                    "k": "1663261573338140:140260",
+                    "v": "2bIIoq4uRMCHr7fmOPOgeT"
+                },
+                {
+                    "k": "1663261684912605:151164",
+                    "v": "2kdFGwPebJPmqwnNgNb3df"
+                },
+                {
+                    "k": "1663261768007607:165239",
+                    "v": "7uhK2M6DnPZmJM8yKNANu5"
+                },
+                {
+                    "k": "1663261973629048:188574",
+                    "v": "6IjlQoyQqgI1k7i9LdT7SR"
+                },
+                {
+                    "k": "1663262133867083:204995",
+                    "v": "5QzOH1BcVkCjU6I2kdfld9"
+                },
+                {
+                    "k": "1663262245632188:215492",
+                    "v": "6PK2aeKSon3QIGFdxXe3iC"
+                },
+                {
+                    "k": "1663262399779188:230728",
+                    "v": "2kdFGwPebJPmqwnNgNb3df"
+                },
+                {
+                    "k": "1663262614321148:271674",
+                    "v": "48VXuMSmR3Yoh577EqxPKJ"
+                },
+                {
+                    "k": "1663262791616838:288858",
+                    "v": "7pH8Woze8Ul1JslL2BOLvI"
+                },
+                {
+                    "k": "1663262912529643:296034",
+                    "v": "5qM7aIR1ZhlL8nK3dPlxXu"
+                },
+                {
+                    "k": "1663263175201971:318144",
+                    "v": "nipH6Ay1DiqpH67RGx4Ni"
+                },
+                {
+                    "k": "1663263180151034:320196",
+                    "v": "nipH6Ay1DiqpH67RGx4Ni"
+                },
+                {
+                    "k": "1663263385910973:354286",
+                    "v": "25xV0zEjJy2icql7cDkeYg"
+                }
+            ]
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.28.1"
+}
